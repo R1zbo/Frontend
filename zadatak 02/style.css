@@ -1,0 +1,30 @@
+
+table, td, th {
+  border: 2px solid white;
+  margin: auto;
+  padding: 5px;
+  text-align: left;
+  width: 550px;
+}
+
+h1, h2 {
+	
+color : #912918;
+font-family: Arial;
+
+}
+
+tr:nth-child(odd) {
+  background-color: #e2dbd9;
+}
+
+th {	
+color: #ffffff;
+background-color: #912918;
+text-align: center;
+}
+
+p {
+  font-family: Georgia;
+  font-size: 16px;
+}
