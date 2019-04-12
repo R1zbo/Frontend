@@ -28,3 +28,19 @@ p {
   font-family: Georgia;
   font-size: 16px;
 }
+
+body {
+background-color: #e2dbd9;
+padding-top: 10px;
+}
+
+div {
+	
+padding-top: 20px;	
+padding-left: 30px;
+padding-right: 30px;
+max-width: 1150px;
+margin: auto;
+background-color: white;
+
+}
